@@ -1,0 +1,14 @@
+layout_spectrum: 0.8414339609444141
+typography_spectrum: 0.11692690220661461
+color:
+  brandStrength: 0.17003918439149857
+  lightness: 0.649395119631663
+  saturation: 0.43209227616898715
+  rhythmicContrast: 0.6374825066886842
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: whiskeytangofoxtrot
