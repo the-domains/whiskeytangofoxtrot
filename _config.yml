@@ -6,9 +6,13 @@ color:
   saturation: 0.43209227616898715
   rhythmicContrast: 0.6374825066886842
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: whiskeytangofoxtrot
+navigation:
+  - name: zero rest mass
+    url: 'http://svimonoff.squarespace.com'
+    type: external
